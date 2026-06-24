@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50">
+  <defs>
+    <linearGradient id="nkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00e5c8"/>
+      <stop offset="100%" style="stop-color:#7c6fff"/>
+    </linearGradient>
+    <linearGradient id="circleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00e5c8"/>
+      <stop offset="100%" style="stop-color:#7c6fff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full circle -->
+  <circle cx="60" cy="60" r="54"
+    fill="none"
+    stroke="url(#circleGrad)"
+    stroke-width="3.5"
+  />
+
+  <!-- Dot top right -->
+  <circle cx="98" cy="22" r="4" fill="#00e5c8"/>
+  <!-- Dot bottom left -->
+  <circle cx="22" cy="98" r="4" fill="#7c6fff"/>
+
+  <!-- N letter - manual paths for clean look -->
+  <path d="M18 82 L18 38 L26 38 L50 68 L50 38 L58 38 L58 82 L50 82 L26 52 L26 82 Z"
+    fill="url(#nkGrad)"/>
+
+  <!-- K letter -->
+  <path d="M64 38 L74 38 L74 57 L95 38 L108 38 L84 61 L108 82 L95 82 L74 63 L74 82 L64 82 Z"
+    fill="url(#nkGrad)"/>
+</svg>
