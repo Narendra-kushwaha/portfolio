@@ -2,10 +2,6 @@
 
 A modern and responsive developer portfolio website built to showcase my skills, projects, and frontend development journey.
 
-## Live Demo
-
-https://narendra-kushwaha.netlify.app/
-
 ## Features
 
 - Responsive design for all devices
