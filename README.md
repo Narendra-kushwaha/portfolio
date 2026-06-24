@@ -47,7 +47,7 @@ Tools:
 
 ## Screenshots
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](.assets/screenshot.png)
 
 ## Author
 
