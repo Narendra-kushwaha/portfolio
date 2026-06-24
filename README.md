@@ -49,12 +49,10 @@ Tools:
 
 ![Portfolio Screenshot](./assets/screenshot.png)
 
-## Author
+## Live Demo
 
-Narendra Kushwaha
+https://simon-says-nk.netlify.app/
 
-Frontend Developer
-
-## GitHub
+## GitHub Repository
 
 https://github.com/Narendra-kushwaha/portfolio
