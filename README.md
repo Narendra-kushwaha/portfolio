@@ -47,7 +47,7 @@ Tools:
 
 ## Live Demo
 
-https://simon-says-nk.netlify.app/
+https://narendra-kushwaha.netlify.app/
 
 ## GitHub Repository
 
