@@ -47,7 +47,7 @@ Tools:
 
 ## Live Demo
 
-https://narendra-kushwaha.netlify.app/
+https://narendra-kushwaha-portfolio.vercel.app/
 
 ## GitHub Repository
 
