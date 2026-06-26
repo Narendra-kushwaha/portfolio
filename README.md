@@ -52,3 +52,7 @@ https://narendra-kushwaha.netlify.app/
 ## GitHub Repository
 
 https://github.com/Narendra-kushwaha/portfolio
+
+## 👨‍💻 Author
+
+Narendra Kushwaha
